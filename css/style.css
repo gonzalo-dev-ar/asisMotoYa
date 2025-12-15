@@ -80,6 +80,28 @@ body {
   color: #f1f1f1;
   margin-bottom: 1.5rem;
 }
+/* -------------------------main--------------------------------------------- */
+/* TITULOS */
+h2 {
+  color: #fbfffe;
+  font-weight: 700;
+}
+
+/* SECCIONES */
+section {
+  background-color: #525050;
+  border-radius: 10px;
+}
+
+/* CARDS */
+.card {
+  border-radius: 12px;
+}
+
+/* FOOTER */
+footer {
+  margin-top: 3rem;
+}
 
 
 /* ---------- MEDIA QUERIES ---------- */
