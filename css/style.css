@@ -58,6 +58,29 @@ body {
   color: white;
   font-weight: 500;
 }
+/* ---------h1 del header mas whatsapp-------- */
+
+.hero {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+}
+
+.hero-title {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  color: white;
+}
+
+.hero-subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.3rem);
+  color: #f1f1f1;
+  margin-bottom: 1.5rem;
+}
+
 
 /* ---------- MEDIA QUERIES ---------- */
 
